@@ -1,0 +1,10 @@
+{
+  "name": "The Ultimate Alt Coin",
+  "symbol": "UAC",
+  "description": "A tribute to legendary altcoins and memes that made history.",
+  "image": "https://github.com/Bigwoods20s/UACJSON/blob/main/D34B658D-F82A-4B63-A3C1-B85567A02D13.png?raw=true",
+  "attributes": [
+    { "trait_type": "Category", "value": "Memecoin" },
+    { "trait_type": "Purpose", "value": "Altcoin Legacy" }
+  ]
+}
